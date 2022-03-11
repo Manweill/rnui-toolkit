@@ -2,6 +2,14 @@
 
 Base on [RNUILib](https://github.com/wix/react-native-ui-lib)
 
+## Components
+
+#### Media
+- [ ] MediaManager
+- [ ] MediaPhoto
+- [ ] MediaAudio
+- [ ] MediaVideo
+
 ## Dependencies
 
 #### 音频播放/录音

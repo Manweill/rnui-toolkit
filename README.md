@@ -29,5 +29,8 @@ Base on [RNUILib](https://github.com/wix/react-native-ui-lib)
 #### 选取图片、拍照
 - [ ] [react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)
 
+#### 图标
+- [ ] [react-native-graph](https://github.com/margelo/react-native-graph)
+
 ####
 - [ ] [MQTT](https://www.npmjs.com/package/react-native-native-mqtt)

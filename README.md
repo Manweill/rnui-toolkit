@@ -34,3 +34,6 @@ Base on [RNUILib](https://github.com/wix/react-native-ui-lib)
 
 ####
 - [ ] [MQTT](https://www.npmjs.com/package/react-native-native-mqtt)
+
+####
+- [ ] [react-native-qr-image-reader]() 识别图片二维码

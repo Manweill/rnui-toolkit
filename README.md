@@ -29,11 +29,11 @@ Base on [RNUILib](https://github.com/wix/react-native-ui-lib)
 #### 选取图片、拍照
 - [ ] [react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)
 
-#### 图标
-- [ ] [react-native-graph](https://github.com/margelo/react-native-graph)
+#### 图表
+- [ ] [react-native-echarts](https://github.com/wuba/react-native-echarts)
 
-####
-- [ ] [MQTT](https://www.npmjs.com/package/react-native-native-mqtt)
+#### MQTT
+- [ ] [MQTT](https://github.com/rn-toolkit/mqtt)
 
 ####
 - [ ] [react-native-qr-image-reader]() 识别图片二维码
